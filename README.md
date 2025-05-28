@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on: `Quiz Master - V2`, `BDM Project`, and an **LLM Automation Agent**  
 - 🌱 I’m learning: `Machine Learning`, `FastAPI`, `VueJS`, `Docker`, `Celery`, `SQL Optimization`  
 - 💬 Ask me about: `Python`, `Flask`, `Git`, `SQL`, `APIs`, `Linux`, `EDA`, `CI/CD`  
-- 📫 Reach me at: **saritakumari2311@gmail.com**  
+- 📫 Reach me at: **saritakumari5276@gmail.com**  
 - ⚡ Fun fact: *I love debugging and making products look clean and smart.*  
-- 💼 Currently interning at **DataWorks Solutions** | Former SDE Intern at **NXP Semiconductors**
+- 💼 Former SDE Intern at **NXP Semiconductors**
 
 ---
 
@@ -48,7 +48,6 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarita-kumari23" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:saritakumari2311@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" title="Gmail" width="40" height="40"/></a>
-  <a href="https://sarita-portfolio.vercel.app" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" title="Portfolio" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/sarita-kumari-76bb34237/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto:saritakumari5276@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" title="Gmail" width="40" height="40"/></a>
 </p>
