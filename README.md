@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=saritakumari23&label=Profile%20views&color=0e75b6&style=flat" alt="saritakumari23" />
 </p>
 
-- 🔭 I’m currently working on: `Quiz Master - V2`, `BDM Project`, and an **LLM Automation Agent**  
-- 🌱 I’m learning: `Machine Learning`, `FastAPI`, `VueJS`, `Docker`, `Celery`, `SQL Optimization`  
-- 💬 Ask me about: `Python`, `Flask`, `Git`, `SQL`, `APIs`, `Linux`, `EDA`, `CI/CD`  
+- 🔭 I’m currently working on: `Quiz Master`, `BDM Project`, `Household Service App` and an **LLM Automation Agent**  
+- 🌱 I’m learning: `Machine Learning`, `FastAPI`, `VueJS`, `Docker`, `Celery`, `SQL Optimization` , `Redis` 
+- 💬 Ask me about: `Python`, `Flask`,` Django`, `Git`, `SQL`, `APIs`, `Linux`, `EDA`, `CI/CD`  
 - 📫 Reach me at: **saritakumari5276@gmail.com**  
 - ⚡ Fun fact: *I love debugging and making products look clean and smart.*  
 - 💼 Former SDE Intern at **NXP Semiconductors**
