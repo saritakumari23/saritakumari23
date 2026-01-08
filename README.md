@@ -21,13 +21,13 @@ Building data-driven products using Python, modern web frameworks, and scalable 
 
 ## 🔭 What I’m Currently Working On
 
-DVista – An end-to-end ML platform that automates the complete machine-learning workflow from raw data ingestion to model training, evaluation, and predictions.
+**DVista** – An end-to-end ML platform that automates the complete machine-learning workflow from raw data ingestion to model training, evaluation, and predictions.
 
-Quiz Master – A full-stack multi-user quiz platform with performance tracking, REST APIs, and an interactive dashboard for analytics.
+**Quiz Master** – A full-stack multi-user quiz platform with performance tracking, REST APIs, and an interactive dashboard for analytics.
 
-Household Service App – A role-based service booking and management system connecting customers with professionals through secure workflows and dashboards.
+**Household Service App** – A role-based service booking and management system connecting customers with professionals through secure workflows and dashboards.
 
-BDM Project – A data analysis and reporting system that transforms business data into actionable insights using structured analytics and visualizations.
+**BDM Project**– A data analysis and reporting system that transforms business data into actionable insights using structured analytics and visualizations.
 
 ## 🌱 Currently Learning
 
