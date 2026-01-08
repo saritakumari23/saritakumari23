@@ -68,10 +68,6 @@ Data-Focused Software Engineer | Data Science Undergraduate
 Building data-driven products using Python, modern web frameworks, and scalable backend systems.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saritakumari23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -129,19 +125,7 @@ Building data-driven products using Python, modern web frameworks, and scalable 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saritakumari23&show_icons=true&theme=tokyonight&hide=stars&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saritakumari23&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritakumari23&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
