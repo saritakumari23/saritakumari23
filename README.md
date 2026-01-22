@@ -8,10 +8,10 @@ Building data-driven products using Python, modern web frameworks, and scalable 
 
 <p align="center">
 🌐 Portfolio: <a href="https://sarita-portfolio-seven.vercel.app/" target="_blank"><b>Visit Here</b></a>
+📄 Resume: <a href="https://sarita-portfolio-seven.vercel.app/static/assets/Sarita_kumari_Resume.pdf" target="_blank"><b> Give A look here </b></a>
+
 </p>
-<p align="center">
-📄 Resume: <a href="https://sarita-portfolio-seven.vercel.app/static/assets/Sarita_kumari_Resume.pdf" target="_blank"><b>Visit Here</b></a>
-</p>
+
 
 ---
 
