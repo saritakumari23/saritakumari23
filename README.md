@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sarita Kumari    <a href="https://sarita-portfolio-seven.vercel.app/" target="_blank</h1>
+<h1 align="center">Hi 👋, I'm Sarita Kumari </h1>
 <h3 align="center">
 Data-Focused Software Engineer | Data Science Undergraduate | Full-Stack Developer 
 </h3>
+<h1>Portfilio  <a href="https://sarita-portfolio-seven.vercel.app/" target="_blank</h1>
 
 <p align="center">
 Building data-driven products using Python, modern web frameworks, and scalable backend systems, API Integration, Machine Learning.
