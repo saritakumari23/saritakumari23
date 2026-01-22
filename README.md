@@ -2,10 +2,12 @@
 <h3 align="center">
 Data-Focused Software Engineer | Data Science Undergraduate | Full-Stack Developer 
 </h3>
-<a href="https://sarita-portfolio-seven.vercel.app/" target="_blank  <h1>Portfilio</h1></a>
-
 <p align="center">
 Building data-driven products using Python, modern web frameworks, and scalable backend systems, API Integration, Machine Learning.
+</p>
+
+<p align="center">
+🌐 Portfolio: <a href="https://your-portfolio-link.com" target="_blank"><b>Visit Here</b></a>
 </p>
 
 ---
